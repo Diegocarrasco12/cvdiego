@@ -1,0 +1,56 @@
+.todo {
+    margin: 0%;
+    background-image: url(../img/imgfondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    font-family: 'Raleway', sans-serif;
+    color: aliceblue;
+}
+
+.col {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: justify;
+}
+
+
+.foto {
+    width: 20rem;
+    height: 28rem;
+    margin: auto;
+}
+
+.encabezado {
+    font-size: 30px;
+    padding: 15px;
+    margin: 0;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.card-title {
+    background-color: black;
+    color: antiquewhite;
+}
+
+.card-text {
+    background-color: black;
+    color: antiquewhite;
+}
+
+
+.card-title {
+    background-color: black;
+    color: antiquewhite;
+}
+
+.footer {
+    background-color: dimgrey;
+    color: black;
+    text-align: center;
+
+}
+
+
+
